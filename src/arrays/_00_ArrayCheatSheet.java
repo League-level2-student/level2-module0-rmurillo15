@@ -51,7 +51,10 @@ public class _00_ArrayCheatSheet {
 		
 		if (hun[j]<= 25) {
 			System.out.println(hun[j]);
-		}	
+		}
+		if (hun[j]>=25) {
+			System.out.println("ye");
+		}
 		}
 		
 		
