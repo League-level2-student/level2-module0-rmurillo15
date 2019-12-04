@@ -42,7 +42,6 @@ public class _00_ArrayCheatSheet {
 		
 		hun[i] = random.nextInt(50);
 		 
-		
 		}	
 		
 		//8. without printing the entire array, print only the smallest number in the array
